@@ -1,0 +1,3 @@
+var helolo;
+
+print(helolo)
