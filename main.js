@@ -1,3 +1,12 @@
-var helolo = 1;
+let value = true;
+const age = 19;
 
-console.log(helolo);
+function isAdult(age) {
+  if (age > 18) {
+    return value
+  } else {
+    return false
+  }
+}
+
+console.log(isAdult(age));
