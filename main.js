@@ -1,3 +1,3 @@
-var helolo;
+var helolo = 1;
 
-print(helolo)
+console.log(helolo);
